@@ -18,6 +18,9 @@ public class PalindroneCheckerApp {
             start++;
             end--;
         }
+    }
+}
+
 
         if (isPalindrome) {
             System.out.println(input + " is a palindrome.");
